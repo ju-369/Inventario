@@ -25,5 +25,5 @@ venv/
 .env/
 
 # Archivos de Inno Setup
-*.iss.bak
+.iss.bak
 Output/
