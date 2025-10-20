@@ -1,0 +1,29 @@
+# Archivos temporales y carpetas de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+
+# Base de datos y configuraciones locales
+#*.db
+#*.sqlite3
+
+# Archivos del instalador y ejecutables
+*.exe
+*.msi
+
+# Archivos generados
+*.log
+
+# Configuración de PyInstaller
+*.manifest
+
+# Archivos de entorno virtual (si usas venv)
+venv/
+.env/
+
+# Archivos de Inno Setup
+*.iss.bak
+Output/
